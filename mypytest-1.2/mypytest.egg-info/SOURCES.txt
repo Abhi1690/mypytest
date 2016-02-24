@@ -1,0 +1,17 @@
+MANIFEST.in
+setup.py
+mypytest/Mynewup.py
+mypytest/__init__.py
+mypytest/pymain.py
+mypytest.egg-info/PKG-INFO
+mypytest.egg-info/SOURCES.txt
+mypytest.egg-info/dependency_links.txt
+mypytest.egg-info/entry_points.txt
+mypytest.egg-info/not-zip-safe
+mypytest.egg-info/top_level.txt
+mypytest/customer/Customer.txt
+mypytest/customer/__init__.py
+mypytest/customer/customer_pack.py
+mypytest/employee/Employeetf.txt
+mypytest/employee/__init__.py
+mypytest/employee/emp_pack.py

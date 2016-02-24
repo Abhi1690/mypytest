@@ -1,0 +1,2 @@
+recursive-include mypytest/employee *.txt
+recursive-include mypytest/customer *.txt
